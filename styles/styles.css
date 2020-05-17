@@ -1,0 +1,22 @@
+#home-cats
+{
+    width: 600px;
+    height: 600px;
+}
+
+#avatar
+{
+    width: 300px;
+    height: 300px;
+}
+
+nav
+{
+    margin-bottom: 20px;
+}
+
+.container
+{
+    margin-bottom: 20px;
+    padding: 20px;
+}
